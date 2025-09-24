@@ -6,6 +6,10 @@
         {
             Console.WriteLine("Introducie un numero para ver si es multiplo de 5");
             int numero;
+            /* Si la clase no fuera estatica creamos objeto:
+             * MultiploCinco m5=new MultiploCinco();
+             * y cambiaria el acceso al metodo desde el objeto:
+             * if(m5.EsMultiplo5(numero))*/
             try
             {
                 numero=Int32.Parse(Console.ReadLine());
