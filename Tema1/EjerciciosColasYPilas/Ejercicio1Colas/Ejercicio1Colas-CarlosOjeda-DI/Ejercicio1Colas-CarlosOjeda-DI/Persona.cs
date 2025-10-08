@@ -8,6 +8,7 @@ namespace Ejercicio1Colas_CarlosOjeda_DI
 {
     public class Persona
     {
+        //Atributo privado
         private int edad;
 
         public Persona(int edad)

@@ -31,8 +31,42 @@
              * Tengo la opcion de guardar el count antes y asi no chequearlo en cada iteraciion, que sea fijo
              * O hacerlo con un while(count>0), asi lo hara hasta que no quede nadie.*/
 
-            int cantidadPersonasEnCola = colaPers.Count;
+           
 
+            //ES MEJOR DESENCOLAR CON WHILE(COUNT>0)
+
+            while (colaPers.Count > 0) 
+            {
+                Persona personaDesencolada = colaPers.Dequeue();
+                int edadChequeo = personaDesencolada.getEdad();
+                switch (edadChequeo)
+                {
+                    //Mayor que 5 y menor de 10
+                    case >= 5 and <= 10:
+                        Console.WriteLine("Persona de " + personaDesencolada.getEdad() + " años, paga: 3EUR");
+                        precioTotal += 3;
+                        break;
+                    //Mayor que 11 y menor de 17
+                    case >= 11 and <= 17:
+                        Console.WriteLine("Persona de " + personaDesencolada.getEdad() + " años, paga: 5EUR");
+                        precioTotal += 5;
+                        break;
+                    //Mayor que 18
+                    case >= 18:
+                        Console.WriteLine("Persona de " + personaDesencolada.getEdad() + " años, paga: 7EUR");
+                        precioTotal += 7;
+                        break;
+
+                    default:
+                        Console.WriteLine("Error en la edad de la persona");
+                        break;
+
+                }
+            }
+
+            /*
+            int cantidadPersonasEnCola = colaPers.Count;
+            
             for (int i = 0; i < cantidadPersonasEnCola; i++)
             {
                 Persona personaDesencolada = colaPers.Dequeue();
@@ -61,7 +95,9 @@
                         break;
 
                 }
-            }
+            }*/
+
+
             //Imprimo total recaudado
             Console.WriteLine("Precio Total Recaudado: " + precioTotal + " Euros");
             //Pongo comprobacion de cola vacia 
