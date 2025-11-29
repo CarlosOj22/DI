@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PrimeraAplicacion.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PrimeraAplicacion"
+    xmlns:vista="clr-namespace:PrimeraAplicacion.Vista"
+    Title="PrimeraAplicacion">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="MiPagina"
+        ContentTemplate="{DataTemplate local:miPagina}"
+        Route="miPagina" />
+    <ShellContent
+        Title="Controles Para PResentar informacion"
+        ContentTemplate="{DataTemplate local:NewPage1}"
+        Route="NewPage1" />
+
+    <ShellContent
+    Title="Comandos de Control"
+    ContentTemplate="{DataTemplate vista:CommandControlDemo1}"
+    Route="CommandControlDemo1" />
+
+    <ShellContent
+    Title="CPrueba"
+    ContentTemplate="{DataTemplate vista:TextControlsDemo}"
+    Route="TextControlsDemo" />
+
+</Shell>

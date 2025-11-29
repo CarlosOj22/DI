@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio4._1.Vista.PruebaAlineacion"
+             Title="Iremos cambiando la configuracion de las etiquetas">
+    <Grid>
+        <Label x:Name="target" FontSize="25" BackgroundColor="Silver" Text="Hello" 
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="End"
+               VerticalOptions="End"/>
+    </Grid>
+</ContentPage>

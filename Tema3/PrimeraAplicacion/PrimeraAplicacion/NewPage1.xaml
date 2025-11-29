@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraAplicacion.NewPage1"
+             Title="Controles para presentar Informacion">
+
+
+    <!-- Si no damos un alto y ancho, tiende a ocupar todo-->
+    <!-- Ir poniendo elementos en el diseño, Meter todos los que hicimos en Windows Form pero en MAUI-->
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label 
+                Text="Estamos en clase de DI"
+                FontAttributes="Bold"
+                FontSize="Large"
+                HeightRequest="300"
+                HorizontalTextAlignment="Center"
+                BackgroundColor="AliceBlue"
+            />
+
+            <Border Stroke="PaleVioletRed" Background="ForestGreen" HeightRequest="200" WidthRequest="400" HorizontalOptions="Start">
+                <Label HeightRequest="50" WidthRequest="100" Text="Hola" BackgroundColor="White">
+                    
+                </Label>
+            </Border>
+
+            <Image Source="dotnet_bot.png" />
+
+            <BoxView BackgroundColor="Black" HeightRequest="200" WidthRequest="200" CornerRadius="10">
+            </BoxView>
+
+            <Ellipse
+                Fill="DarkRed"
+                Stroke="DarkGreen"
+                StrokeThickness="10"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                WidthRequest="300"/>
+
+            <Rectangle Fill="DarkRed" Stroke="Black" StrokeThickness="5" HeightRequest="50" HorizontalOptions="End" WidthRequest="150" RadiusX="10" RadiusY="10">
+                
+
+            </Rectangle>
+            
+            <WebView HeightRequest="500"
+                     Source="https://www.cifpcuenca.es/"/>
+            
+        </VerticalStackLayout>
+        
+    </ScrollView>
+    
+</ContentPage>

@@ -70,7 +70,8 @@
             // menuOpcionesArchivoSalir
             // 
             menuOpcionesArchivoSalir.Name = "menuOpcionesArchivoSalir";
-            menuOpcionesArchivoSalir.Size = new Size(147, 34);
+            menuOpcionesArchivoSalir.ShortcutKeys = Keys.Control | Keys.Alt | Keys.S;
+            menuOpcionesArchivoSalir.Size = new Size(270, 34);
             menuOpcionesArchivoSalir.Text = "Salir";
             menuOpcionesArchivoSalir.Click += menuOpcionesArchivoSalir_Click;
             // 
@@ -85,7 +86,7 @@
             // 
             menuOpcionesOperacionesSuma.CheckOnClick = true;
             menuOpcionesOperacionesSuma.Name = "menuOpcionesOperacionesSuma";
-            menuOpcionesOperacionesSuma.Size = new Size(223, 34);
+            menuOpcionesOperacionesSuma.Size = new Size(270, 34);
             menuOpcionesOperacionesSuma.Text = "Suma";
             menuOpcionesOperacionesSuma.Click += menuOpcionesOperacionesSuma_Click;
             // 
@@ -93,7 +94,7 @@
             // 
             menuOpcionesOperacionesMultiplicacion.CheckOnClick = true;
             menuOpcionesOperacionesMultiplicacion.Name = "menuOpcionesOperacionesMultiplicacion";
-            menuOpcionesOperacionesMultiplicacion.Size = new Size(223, 34);
+            menuOpcionesOperacionesMultiplicacion.Size = new Size(270, 34);
             menuOpcionesOperacionesMultiplicacion.Text = "Multiplicación";
             menuOpcionesOperacionesMultiplicacion.Click += menuOpcionesOperacionesMultiplicacion_Click;
             // 
@@ -101,7 +102,7 @@
             // 
             menuOpcionesOperacionesResta.CheckOnClick = true;
             menuOpcionesOperacionesResta.Name = "menuOpcionesOperacionesResta";
-            menuOpcionesOperacionesResta.Size = new Size(223, 34);
+            menuOpcionesOperacionesResta.Size = new Size(270, 34);
             menuOpcionesOperacionesResta.Text = "Resta";
             menuOpcionesOperacionesResta.Click += menuOpcionesOperacionesResta_Click;
             // 
@@ -109,7 +110,7 @@
             // 
             menuOpcionesOperacionesDivision.CheckOnClick = true;
             menuOpcionesOperacionesDivision.Name = "menuOpcionesOperacionesDivision";
-            menuOpcionesOperacionesDivision.Size = new Size(223, 34);
+            menuOpcionesOperacionesDivision.Size = new Size(270, 34);
             menuOpcionesOperacionesDivision.Text = "División";
             menuOpcionesOperacionesDivision.Click += menuOpcionesOperacionesDivision_Click;
             // 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraAplicacion.Vista.CommandControlDemo1"
+             Title="CommandControlDemo1">
+    <VerticalStackLayout>
+        <Label Text="Seleccione opcion para continuar"/>
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkEstado" IsChecked="True" CheckedChanged="CheckBox_CheckedChanged"/>
+            <Label x:Name="lblChk" Text="" VerticalTextAlignment="Center"/>
+        </HorizontalStackLayout>
+        <Slider x:Name="slider"
+            WidthRequest="200"
+            Minimum="0"
+            Maximum="10"
+            MinimumTrackColor="Yellow"
+            MaximumTrackColor="Green"
+            ThumbColor="DarkRed"
+            ValueChanged="slider_ValueChanged">
+        </Slider>
+            <!--ValueChanged="slider_ValueChanged"/> -->
+        <Label x:Name="lblSlider"/>
+        <Stepper x:Name="stepper"
+            Maximum="10"
+            Minimum="0"
+            Increment="1"
+            ValueChanged="stepper_ValueChanged"/>
+            <!--ValueChanged="stepper_ValueChanged" -->
+
+        <Switch IsToggled="True" Toggled="Switch_Toggled"/>
+        <DatePicker x:Name="fecha" DateSelected="fecha_DateSelected"/>
+        <TimePicker/>
+    </VerticalStackLayout>
+</ContentPage>

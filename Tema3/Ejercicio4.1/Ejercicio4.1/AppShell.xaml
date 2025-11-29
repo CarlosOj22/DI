@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- //POR UN LADO VAMOS CREANDO CONTENPGES QUE ES LO QUE APARECE EN LA VENTA DE WINDOWS, LO HACEMOS EN VISTA
+    //EN SHELL CONTENT TEN EMOS LA NAVEGACION DE NUESTRA APLICACION (PESTAÑAS, HAMBURGUES), AQUI SE VE COMO PASAMOS 
+    //UNA PESTAÑA A OTRO -->
+<Shell
+    x:Class="Ejercicio4._1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vista="clr-namespace:Ejercicio4._1.Vista"
+    Title="Ejercicio4._1">
+
+    
+    <ShellContent
+        Title="Alinear Etiqueta"
+        ContentTemplate="{DataTemplate vista:PruebaAlineacion}"
+        Route="PruebaAlineacion" />
+
+    <ShellContent
+        Title="Juego Alineacion"
+        ContentTemplate="{DataTemplate vista:JuegoAlineacion}"
+        Route="JuegoAlineacion" />
+
+</Shell>

@@ -182,6 +182,12 @@ namespace WinFormsApp1
 
         private void menuContextual1Borrar_Click(object sender, EventArgs e)
         {
+
+            //MANERA MAS OPTIMO MENUCONTEXTUAL1.SOURCECONTROL, DEVUELVE QUIEN DESENCADENO EL EVENTO
+            //LO QUE DEVUELVE LO TRANSFORMAMOS A TEXTBOOK
+            //TEXTBOOK TXTPULSADA = (TEXTBOOK)MENUCONTEXTUAL1.SOURCECONTROL;
+            //TXTPULSADA.TEXT = "";
+
             if (ratonEnTxt1 == true || ratonEnTxt2 == false)
             {
                 //Si estoy encima de txt1 borro su contenido cuando le de a pulsar, funcionara asi?

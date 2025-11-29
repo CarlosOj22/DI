@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraAplicacion.miPagina"
+             Title="miPagina">
+    <VerticalStackLayout VerticalOptions="Center">
+        <Label 
+             FontSize="Header"
+             TextColor="Blue"
+             Text="ESTAMOS EN CLASE DE DI DAM2"
+             VerticalOptions="Center" 
+             HorizontalOptions="Center"/>
+        <Label 
+            Text="ESTAMOS EN CLASE DE DI DAM2"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>
