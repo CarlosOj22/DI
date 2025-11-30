@@ -10,8 +10,7 @@ namespace Ejercicio2
     {
         public static string[] dialogo = new string[]
         {
-            "Elige tu inicial entre una rata electrica de l calle y una paloma con lepra",
-            "Enfrentate a domingueros mas ciegos que un topo los sabados",
+            
         };
     }
 }

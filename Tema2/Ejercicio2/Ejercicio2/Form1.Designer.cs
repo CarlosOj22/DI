@@ -38,7 +38,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(703, 31);
             textBox1.TabIndex = 0;
-            textBox1.Text = "Bienvenidos a el nuevo Pokemon Tusi";
+            textBox1.Text = "A";
             textBox1.Click += textBox1_Click;
             textBox1.TextChanged += textBox1_TextChanged;
             textBox1.KeyPress += textBox1_KeyPress;
