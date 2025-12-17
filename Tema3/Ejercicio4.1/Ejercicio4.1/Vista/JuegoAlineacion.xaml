@@ -2,12 +2,27 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ejercicio4._1.Vista.JuegoAlineacion"
-             Title="Juego que ira cambiando la posicion de las etiquetas">
-    
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="Juego que irá cambiando la posición de las etiquetas">
+    <Grid Padding="20" RowSpacing="10" RowDefinitions="50,50,*,*" ColumnSpacing="10" ColumnDefinitions="*,*,*,*,*">
+
+
+        <Label Grid.Row="0" Grid.Column="0" Text="Horizontal" VerticalOptions="Center"/>
+        <Button x:Name ="btnHorizontalStart" Grid.Row="0" Grid.Column="1" Text="Start" Clicked="btnHorizontalStart_Clicked"/>
+        <Button x:Name ="btnHorizontalCenter" Grid.Row="0" Grid.Column="2" Text="Center" Clicked="btnHorizontalCenter_Clicked"/>
+        <Button x:Name ="btnHorizontalEnd" Grid.Row="0" Grid.Column="3" Text="End" Clicked="btnHorizontalEnd_Clicked"/>
+        <Button x:Name ="btnHorizontalFill" Grid.Row="0" Grid.Column="4" Text="Fill" Clicked="btnHorizontalFill_Clicked"/>
+
+
+        <Label Grid.Row="1" Grid.Column="0" Text="Vertical" VerticalOptions="Center"/>
+        <Button x:Name ="btnVerticalStart" Grid.Row="1" Grid.Column="1" Text="Start" Clicked="btnVerticalStart_Clicked"/>
+        <Button x:Name ="btnVerticalCenter" Grid.Row="1" Grid.Column="2" Text="Center" Clicked="btnVerticalCenter_Clicked"/>
+        <Button x:Name ="btnVerticalEnd" Grid.Row="1" Grid.Column="3" Text="End" Clicked="btnVerticalEnd_Clicked"/>
+        <Button x:Name ="btnVerticalFill" Grid.Row="1" Grid.Column="4" Text="Fill" Clicked="btnVerticalFill_Clicked"/>
+
+        <!-- Que pasa si no podemos vertical opcion y horizontal, QUE OCUPA TODO DONDE ESTA COLOCADO
+        SI LE DAMOS VALOR SE AJUSTA DIMENSION ETIQEUTA A SU CONTENIDO QUE ES UN TEXTO (SI NO HUBERA TEXTO
+        SE LE AJUSTA A NADA QUE TIENE POR LO QUE DESAPARECE)-->
+        <Label x:Name="target" Grid.Row="2" Grid.ColumnSpan="5" BackgroundColor="MediumPurple" Text="Hello" />
+
+    </Grid>
 </ContentPage>

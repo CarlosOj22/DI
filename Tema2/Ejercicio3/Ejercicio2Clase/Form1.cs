@@ -29,20 +29,7 @@ namespace Ejercicio2Clase
             comboBox1.DataSource=listaCoches;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblResolucion_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void rdbResolucion1_CheckedChanged(object sender, EventArgs e)
         {

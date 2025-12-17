@@ -36,8 +36,8 @@ public partial class TextControlsDemo : ContentPage
 
     private void txtNuevoElementoLista_Completed(object sender, EventArgs e)
     {
-        
-        List<string> listaPicker = new List<string>;
+
+        List<string> listaPicker = new List<string>();
         for(int i=0; i < picker.ItemsSource.Count; i++)
         {
             listaPicker.Add(picker.ItemsSource[i].ToString());

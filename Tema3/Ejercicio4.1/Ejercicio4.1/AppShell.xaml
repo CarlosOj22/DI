@@ -20,4 +20,9 @@
         ContentTemplate="{DataTemplate vista:JuegoAlineacion}"
         Route="JuegoAlineacion" />
 
+        <ShellContent
+        Title="Prueba Responsive Pantalla"
+        ContentTemplate="{DataTemplate vista:DiseñoPantallaMovilRespoinsiv}"
+        Route="DiseñoPantallaMovilRespoinsiv" />
+
 </Shell>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio4._1.Vista.DiseñoPantallaMovilRespoinsiv"
+             Title="DiseñoPantallaMovilRespoinsiv">
+
+    <Grid Padding="20"  RowDefinitions="10*,30*,15*,15*"  ColumnDefinitions="*,*">
+
+        <Label Grid.Row="0" Grid.Column="0"   BackgroundColor="Silver" Text="10*" />
+        <Label Grid.Row="1" Grid.Column="0"   BackgroundColor="DarkCyan" Text="30*" />
+        <Label Grid.Row="2" Grid.Column="0"   BackgroundColor="IndianRed"  Text="15*"/>
+        <Label Grid.Row="3" Grid.Column="0"   BackgroundColor="BlueViolet"  Text="15*"/>
+
+        <Label Grid.Row="0" Grid.Column="1"   BackgroundColor="Yellow"  Text="10*"/>
+        <Label Grid.Row="1" Grid.Column="1"   BackgroundColor="Goldenrod"  Text="30*"/>
+        <Label Grid.Row="2" Grid.Column="1"   BackgroundColor="Indigo"  Text="15*"/>
+        <Label Grid.Row="3" Grid.Column="1"   BackgroundColor="Salmon"  Text="15*"/>
+
+    </Grid>
+</ContentPage>
