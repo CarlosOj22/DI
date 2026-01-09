@@ -29,9 +29,10 @@ public partial class PaginaBusqueda : ContentPage
     }
 
     private void Button_Clicked_1(object sender, EventArgs e)
-    {
-		//CUando pulsamos calcular
-		RellenarClima();
+    {	
+		
+        //Cuando pulsamos calcular
+        RellenarClima();
     }
 
 	public async void RellenarClima()
