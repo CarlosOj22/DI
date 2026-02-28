@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|c:\\dam2\\di\\proyectocaldera\\proyectogestioncaldera-coc\\proyectogestioncaldera-coc\\vistas\\vistausuario\\estadisticaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|solutionrelative:proyectogestioncaldera-coc\\vistas\\vistausuario\\estadisticaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|c:\\dam2\\di\\proyectocaldera\\proyectogestioncaldera-coc\\proyectogestioncaldera-coc\\vistas\\vistausuario\\estadisticaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|solutionrelative:proyectogestioncaldera-coc\\vistas\\vistausuario\\estadisticaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|c:\\dam2\\di\\proyectocaldera\\proyectogestioncaldera-coc\\proyectogestioncaldera-coc\\vistas\\vistausuario\\usuarioinicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|solutionrelative:proyectogestioncaldera-coc\\vistas\\vistausuario\\usuarioinicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|c:\\dam2\\di\\proyectocaldera\\proyectogestioncaldera-coc\\proyectogestioncaldera-coc\\vistas\\vistausuario\\usuarioinicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DF17A7-114A-4BE8-A553-152D0816C514}|ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC.csproj|solutionrelative:proyectogestioncaldera-coc\\vistas\\vistausuario\\usuarioinicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioInicio.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml.cs",
+              "RelativeToolTip": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:35:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioInicio.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml",
+              "RelativeDocumentMoniker": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml",
+              "RelativeToolTip": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\UsuarioInicio.xaml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T14:35:13.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadisticasPage.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml.cs",
+              "RelativeToolTip": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:34:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadisticasPage.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\ProyectoCaldera\\ProyectoGestionCaldera-COC\\ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml",
+              "RelativeToolTip": "ProyectoGestionCaldera-COC\\Vistas\\VistaUsuario\\EstadisticasPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T14:33:13.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

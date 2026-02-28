@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.sourcelink.json
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\Ejercicio3\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll

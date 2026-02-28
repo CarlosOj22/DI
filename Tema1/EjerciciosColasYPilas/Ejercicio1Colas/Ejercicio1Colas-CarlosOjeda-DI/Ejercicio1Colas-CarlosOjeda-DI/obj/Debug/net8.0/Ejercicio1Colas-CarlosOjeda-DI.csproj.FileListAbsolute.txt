@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\bin\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.exe
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\bin\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.deps.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\bin\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.runtimeconfig.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\bin\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\bin\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.pdb
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.sourcelink.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\refint\Ejercicio1Colas-CarlosOjeda-DI.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.pdb
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\Ejercicio1Colas-CarlosOjeda-DI.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio1Colas\Ejercicio1Colas-CarlosOjeda-DI\Ejercicio1Colas-CarlosOjeda-DI\obj\Debug\net8.0\ref\Ejercicio1Colas-CarlosOjeda-DI.dll

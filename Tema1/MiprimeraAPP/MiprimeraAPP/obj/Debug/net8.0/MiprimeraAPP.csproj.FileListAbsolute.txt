@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\bin\Debug\net8.0\MiprimeraAPP.exe
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\bin\Debug\net8.0\MiprimeraAPP.deps.json
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\bin\Debug\net8.0\MiprimeraAPP.runtimeconfig.json
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\bin\Debug\net8.0\MiprimeraAPP.dll
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\bin\Debug\net8.0\MiprimeraAPP.pdb
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.sourcelink.json
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.dll
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\refint\MiprimeraAPP.dll
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.pdb
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\MiprimeraAPP.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\MiprimeraAPP\MiprimeraAPP\obj\Debug\net8.0\ref\MiprimeraAPP.dll

@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoGestionCaldera_COC
+build_property.ProjectDir = C:\DAM2\DI\ProyectoCaldera\ProyectoGestionCaldera-COC\ProyectoGestionCaldera-COC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Idiomas/Espaniol.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Idiomas.Espaniol.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Idiomas\Espaniol.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Idiomas\Espaniol.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Idiomas/Ingles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Idiomas.Ingles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Idiomas\Ingles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Idiomas\Ingles.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Styles/Colores/ColoresPrincipal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Styles.Colores.ColoresPrincipal.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colores\ColoresPrincipal.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colores\ColoresPrincipal.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Styles/Colores/ColoresTemaClaro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Styles.Colores.ColoresTemaClaro.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colores\ColoresTemaClaro.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colores\ColoresTemaClaro.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Styles/Colores/ColoresTemaOscuro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Styles.Colores.ColoresTemaOscuro.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colores\ColoresTemaOscuro.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colores\ColoresTemaOscuro.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Styles/EstiloPredeterminado.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Styles.EstiloPredeterminado.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\EstiloPredeterminado.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\EstiloPredeterminado.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/AccesibilidadPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.AccesibilidadPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\AccesibilidadPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\AccesibilidadPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/AcercaDePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.AcercaDePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\AcercaDePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\AcercaDePage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/Admin/AdminInicioPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.Admin.AdminInicioPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Admin\AdminInicioPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Admin\AdminInicioPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/Admin/AdminUsuarios.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.Admin.AdminUsuarios.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Admin\AdminUsuarios.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Admin\AdminUsuarios.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/Admin/ModificacionUsuarios.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.Admin.ModificacionUsuarios.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Admin\ModificacionUsuarios.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Admin\ModificacionUsuarios.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/BienvenidaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.BienvenidaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\BienvenidaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\BienvenidaPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/ConfiguracionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\ConfiguracionPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/InicioSesionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.InicioSesionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\InicioSesionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\InicioSesionPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/RegistroPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.RegistroPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\RegistroPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\RegistroPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/SuperAdmin/SuperAdminInicioPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.SuperAdmin.SuperAdminInicioPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\SuperAdmin\SuperAdminInicioPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\SuperAdmin\SuperAdminInicioPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/VistaUsuario/EstadisticasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.VistaUsuario.EstadisticasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\VistaUsuario\EstadisticasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\VistaUsuario\EstadisticasPage.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/VistaUsuario/UsuarioInicio.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.VistaUsuario.UsuarioInicio.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\VistaUsuario\UsuarioInicio.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\VistaUsuario\UsuarioInicio.xaml
+
+[C:/DAM2/DI/ProyectoCaldera/ProyectoGestionCaldera-COC/ProyectoGestionCaldera-COC/Vistas/VistaUsuario/UsuarioLecturas.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoGestionCaldera_COC.Vistas.VistaUsuario.UsuarioLecturas.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\VistaUsuario\UsuarioLecturas.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\VistaUsuario\UsuarioLecturas.xaml

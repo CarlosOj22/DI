@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\basedatos\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\basedatos\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginausuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginausuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshelladministrador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshelladministrador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshelladministrador.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshelladministrador.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginausuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginausuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\singleton\\datosglobales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\singleton\\datosglobales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginabusqueda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginabusqueda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\servicios\\geolocalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\servicios\\geolocalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginabusqueda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginabusqueda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshellinicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshellinicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshelltiempo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshelltiempo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshelltiempo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshelltiempo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\estructuranavegacion\\appshellinicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\estructuranavegacion\\appshellinicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginaayuda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginaayuda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\vistas\\paginaayuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\vistas\\paginaayuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|c:\\dam2\\di\\tema3\\weather\\proyectoweather\\proyectoweather\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57E3DA15-DB7D-40DC-8931-726B7BA65CBA}|ProyectoWeather\\ProyectoWeather.csproj|solutionrelative:proyectoweather\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BBDD.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\BaseDatos\\BBDD.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\BaseDatos\\BBDD.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\BaseDatos\\BBDD.cs",
+              "RelativeToolTip": "ProyectoWeather\\BaseDatos\\BBDD.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAIwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:59:31.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatosGlobales.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Singleton\\DatosGlobales.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Singleton\\DatosGlobales.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Singleton\\DatosGlobales.cs",
+              "RelativeToolTip": "ProyectoWeather\\Singleton\\DatosGlobales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:18:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\Login.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\Login.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:16:01.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginaUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaUsuarios.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaUsuarios.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaUsuarios.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:12:18.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShellAdministrador.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T11:07:44.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginaBusqueda.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaBusqueda.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaBusqueda.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaBusqueda.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaBusqueda.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:56:53.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaUsuarios.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaUsuarios.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaUsuarios.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaUsuarios.xaml",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaUsuarios.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T11:02:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "ProyectoWeather\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:08:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShellAdministrador.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellAdministrador.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:11:20.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Geolocalizacion.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Servicios\\Geolocalizacion.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Servicios\\Geolocalizacion.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Servicios\\Geolocalizacion.cs",
+              "RelativeToolTip": "ProyectoWeather\\Servicios\\Geolocalizacion.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:16:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginaBusqueda.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaBusqueda.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaBusqueda.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaBusqueda.xaml",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaBusqueda.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T08:44:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\Login.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\Login.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\Login.xaml",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T11:15:32.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\App.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\App.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:38:14.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShellInicio.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T11:12:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShellTiempo.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T11:47:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShellTiempo.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellTiempo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:39:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShellInicio.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\EstructuraNavegacion\\AppShellInicio.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:12:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaginaAyuda.xaml.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaAyuda.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaAyuda.xaml.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaAyuda.xaml.cs",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaAyuda.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:05:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaginaAyuda.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaAyuda.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\Vistas\\PaginaAyuda.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\Vistas\\PaginaAyuda.xaml",
+              "RelativeToolTip": "ProyectoWeather\\Vistas\\PaginaAyuda.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T11:03:22.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\App.xaml",
+              "RelativeDocumentMoniker": "ProyectoWeather\\App.xaml",
+              "ToolTip": "C:\\DAM2\\DI\\Tema3\\Weather\\ProyectoWeather\\ProyectoWeather\\App.xaml",
+              "RelativeToolTip": "ProyectoWeather\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T11:12:51.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

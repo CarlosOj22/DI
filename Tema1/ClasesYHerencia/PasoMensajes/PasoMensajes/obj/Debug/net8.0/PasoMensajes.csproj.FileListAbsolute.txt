@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\bin\Debug\net8.0\PasoMensajes.exe
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\bin\Debug\net8.0\PasoMensajes.deps.json
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\bin\Debug\net8.0\PasoMensajes.runtimeconfig.json
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\bin\Debug\net8.0\PasoMensajes.dll
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\bin\Debug\net8.0\PasoMensajes.pdb
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.sourcelink.json
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.dll
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\refint\PasoMensajes.dll
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.pdb
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\PasoMensajes.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\ClasesYHerencia\PasoMensajes\PasoMensajes\obj\Debug\net8.0\ref\PasoMensajes.dll

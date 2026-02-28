@@ -1,0 +1,17 @@
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\bin\Debug\net8.0-windows\Ejercicio7Responsive.exe
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\bin\Debug\net8.0-windows\Ejercicio7Responsive.deps.json
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\bin\Debug\net8.0-windows\Ejercicio7Responsive.runtimeconfig.json
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\bin\Debug\net8.0-windows\Ejercicio7Responsive.dll
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\bin\Debug\net8.0-windows\Ejercicio7Responsive.pdb
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.Form1.resources
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.csproj.GenerateResource.cache
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.AssemblyInfo.cs
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.sourcelink.json
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.dll
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\refint\Ejercicio7Responsive.dll
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.pdb
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\Ejercicio7Responsive.genruntimeconfig.cache
+C:\DAM2\DI\Tema2\Ejercicio6\Ejercicio7Responsive\Ejercicio7Responsive\obj\Debug\net8.0-windows\ref\Ejercicio7Responsive.dll

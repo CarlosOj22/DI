@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|c:\\dam2\\di\\tema2\\basesdatos\\persona\\persona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|solutionrelative:persona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|c:\\dam2\\di\\tema2\\basesdatos\\persona\\persona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|solutionrelative:persona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|c:\\dam2\\di\\tema2\\basesdatos\\persona\\persona\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|solutionrelative:persona\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|c:\\dam2\\di\\tema2\\basesdatos\\persona\\persona\\modelo\\modelpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771A73EE-B400-4D4D-BC80-5B016EF484A5}|Persona\\Persona.csproj|solutionrelative:persona\\modelo\\modelpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelPersona.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Modelo\\ModelPersona.cs",
+              "RelativeDocumentMoniker": "Persona\\Modelo\\ModelPersona.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Modelo\\ModelPersona.cs",
+              "RelativeToolTip": "Persona\\Modelo\\ModelPersona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:06:45.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Form1.cs",
+              "RelativeDocumentMoniker": "Persona\\Form1.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Form1.cs",
+              "RelativeToolTip": "Persona\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:55:27.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BBDD.cs",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\BBDD.cs",
+              "RelativeDocumentMoniker": "Persona\\BBDD.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\BBDD.cs",
+              "RelativeToolTip": "Persona\\BBDD.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwHMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:49:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Form1.cs",
+              "RelativeDocumentMoniker": "Persona\\Form1.cs",
+              "ToolTip": "C:\\DAM2\\DI\\Tema2\\BasesDatos\\Persona\\Persona\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Persona\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:41:00.401Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

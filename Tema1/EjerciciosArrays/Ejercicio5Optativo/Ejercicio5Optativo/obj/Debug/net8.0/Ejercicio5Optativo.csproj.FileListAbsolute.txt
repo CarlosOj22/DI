@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\bin\Debug\net8.0\Ejercicio5Optativo.exe
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\bin\Debug\net8.0\Ejercicio5Optativo.deps.json
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\bin\Debug\net8.0\Ejercicio5Optativo.runtimeconfig.json
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\bin\Debug\net8.0\Ejercicio5Optativo.dll
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\bin\Debug\net8.0\Ejercicio5Optativo.pdb
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.sourcelink.json
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.dll
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\refint\Ejercicio5Optativo.dll
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.pdb
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\Ejercicio5Optativo.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\EjerciciosArrays\Ejercicio5Optativo\Ejercicio5Optativo\obj\Debug\net8.0\ref\Ejercicio5Optativo.dll

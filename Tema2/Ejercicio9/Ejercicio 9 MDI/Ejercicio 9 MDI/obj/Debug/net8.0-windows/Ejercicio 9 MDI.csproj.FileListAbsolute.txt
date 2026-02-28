@@ -1,0 +1,18 @@
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\bin\Debug\net8.0-windows\Ejercicio 9 MDI.exe
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\bin\Debug\net8.0-windows\Ejercicio 9 MDI.deps.json
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\bin\Debug\net8.0-windows\Ejercicio 9 MDI.runtimeconfig.json
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\bin\Debug\net8.0-windows\Ejercicio 9 MDI.dll
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\bin\Debug\net8.0-windows\Ejercicio 9 MDI.pdb
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio_9_MDI.Form1.resources
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio_9_MDI.FormDocumentos.resources
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.csproj.GenerateResource.cache
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.AssemblyInfo.cs
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.sourcelink.json
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.dll
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\refint\Ejercicio 9 MDI.dll
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.pdb
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\Ejercicio 9 MDI.genruntimeconfig.cache
+C:\DAM2\DI\Tema2\Ejercicio9\Ejercicio 9 MDI\Ejercicio 9 MDI\obj\Debug\net8.0-windows\ref\Ejercicio 9 MDI.dll

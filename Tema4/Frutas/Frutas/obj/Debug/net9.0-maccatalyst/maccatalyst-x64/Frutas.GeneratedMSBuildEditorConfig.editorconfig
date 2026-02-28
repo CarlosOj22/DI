@@ -1,0 +1,91 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Frutas
+build_property.ProjectDir = C:\DAM2\DI\Tema4\Frutas\Frutas\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Navegacion/FrutasShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Navegacion.FrutasShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navegacion\FrutasShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navegacion\FrutasShell.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Navegacion/InicioShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Navegacion.InicioShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navegacion\InicioShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navegacion\InicioShell.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Resources/Idiomas/Espaniol.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Resources.Idiomas.Espaniol.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Idiomas\Espaniol.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Idiomas\Espaniol.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Resources/Styles/TamanioFuentes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Resources.Styles.TamanioFuentes.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\TamanioFuentes.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\TamanioFuentes.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Resources/Styles/TemaPrincipal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Resources.Styles.TemaPrincipal.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\TemaPrincipal.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\TemaPrincipal.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Vistas/Frutas/FresasContentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Vistas.Frutas.FresasContentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Frutas\FresasContentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Frutas\FresasContentPage.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Vistas/Frutas/MelocotonContentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Vistas.Frutas.MelocotonContentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Frutas\MelocotonContentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Frutas\MelocotonContentPage.xaml
+
+[C:/DAM2/DI/Tema4/Frutas/Frutas/Vistas/Inicio/InicioContentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Frutas.Vistas.Inicio.InicioContentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\Inicio\InicioContentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\Inicio\InicioContentPage.xaml

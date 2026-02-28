@@ -1,0 +1,17 @@
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\DAM2\DI\Tema2\Ejercicio8Menu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

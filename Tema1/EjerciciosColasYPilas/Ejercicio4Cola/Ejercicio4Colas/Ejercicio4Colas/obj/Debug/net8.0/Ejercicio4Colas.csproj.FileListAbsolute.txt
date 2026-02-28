@@ -1,0 +1,15 @@
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\bin\Debug\net8.0\Ejercicio4Colas.exe
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\bin\Debug\net8.0\Ejercicio4Colas.deps.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\bin\Debug\net8.0\Ejercicio4Colas.runtimeconfig.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\bin\Debug\net8.0\Ejercicio4Colas.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\bin\Debug\net8.0\Ejercicio4Colas.pdb
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.AssemblyInfoInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.AssemblyInfo.cs
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.csproj.CoreCompileInputs.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.sourcelink.json
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\refint\Ejercicio4Colas.dll
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.pdb
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\Ejercicio4Colas.genruntimeconfig.cache
+C:\DAM2\DI\Tema1\EjerciciosColasYPilas\Ejercicio4Cola\Ejercicio4Colas\Ejercicio4Colas\obj\Debug\net8.0\ref\Ejercicio4Colas.dll
